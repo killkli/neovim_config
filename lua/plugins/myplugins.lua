@@ -1,4 +1,5 @@
 return {
+  { "NvChad/nvim-colorizer.lua" },
   {
     "folke/tokyonight.nvim",
     opts = {
